@@ -5,6 +5,13 @@
 
 - Scott Oshiro (Mentor), Stanford University, USA
 - Aishwarya Sahai (Mentor), University of Massachusetts Amherst, USA
+- Ouassim Hamdani (Hacker), Grand School of computer science, technologies, and digitization (ESTIN), Algeria
+- Maryam Almetnawy (Hacker), Ajman University, UAE
+- Mohammad Muhsen (Hacker), Applied Science Private University, Jordan
+- Swaraj Purohit (Hacker), Vishwanath Karad Mit World Peace University, India
+- Minwu Kim (Hacker), New York AbuDhabi University, UAE
+- Runyao Fan (Hacker), New York AbuDhabi University, UAE
+- Ahmad Fraij (Hacker), New York AbuDhabi University, UAE
 ```
 Add yourself here
 ```
